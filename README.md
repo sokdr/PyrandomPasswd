@@ -12,4 +12,4 @@ This is a simple Python script that generates three secure random passwords with
 
 ## Usage
 
-```python3 
+```python3 randompasswd.py```
